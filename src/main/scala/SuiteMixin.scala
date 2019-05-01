@@ -1,3 +1,3 @@
 trait SuiteMixin { this: Suite =>
-  def rerunner: Option[String]
+  def rerunner: String
 }

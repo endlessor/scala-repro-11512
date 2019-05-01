@@ -1,3 +1,3 @@
 trait Suite {
-  def rerunner: Option[String] = ???
+  def rerunner: String = ???
 }
